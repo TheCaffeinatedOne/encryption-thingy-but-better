@@ -124,6 +124,5 @@ function atbash(inp2) {
   };
   charpos++;
   }
-  alert("//" +final.join("") + "//");
   return final.join("");
 }

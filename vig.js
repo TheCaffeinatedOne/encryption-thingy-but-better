@@ -120,7 +120,6 @@ function vig(msgunprocessed, keyraw) {
    charpos++
    keypos++
  }
- alert("//" + final.join('')+"//");
  console.log('VIG DONE');
  return final.join('');
 }
